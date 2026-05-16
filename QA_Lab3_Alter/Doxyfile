@@ -1,0 +1,32 @@
+PROJECT_NAME           = "Lab3"
+PROJECT_NUMBER         = "1.0.0"
+OUTPUT_DIRECTORY       = "D:/Y/TPOAS/lab3"
+OUTPUT_LANGUAGE        = English
+BRIEF_MEMBER_DESC      = YES
+REPEAT_BRIEF           = YES
+
+INPUT                  = .
+FILE_PATTERNS          = *.cpp *.hpp *.md
+RECURSIVE              = NO
+
+IMAGE_PATH             = D:/Y/TPOAS/lab3
+
+GENERATE_HTML          = YES
+HTML_OUTPUT            = html
+
+GENERATE_LATEX         = NO
+USE_MATHJAX            = YES
+
+HAVE_DOT               = YES
+INTERACTIVE_SVG        = NO
+DOT_IMAGE_FORMAT       = png
+DOT_TRANSPARENT        = YES
+
+CLASS_GRAPH 	       = YES
+COLLABORATION_GRAPH    = NO
+INCLUDE_GRAPH          = NO
+INCLUDED_BY_GRAPH      = NO
+DIRECTORY_GRAPH        = NO
+
+EXTRACT_PRIVATE	       = YES
+SHOW_FILES             = NO
